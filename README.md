@@ -20,8 +20,6 @@ Prepared by
 08 September 2023
 1 
  
-Daftar Isi 
- 
 Daftar Isi	1
 1. 	Pendahuluan	2
 1.1 	Tujuan Penulisan Dokumen	2

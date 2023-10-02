@@ -1,23 +1,23 @@
-# 2022A-Kelompok8
+# 2022C-Kelompok5
 
  
  
 Software Requirements 
 Specification 
 for 
-     Website
-Rekomendasi Film 
+     Perancangan Website 
+Crafted Merch Customized
 Version 1.0 approved 
 Prepared by  
 
-22091397012 – Mohammad Resha Syahputra
-22091397013 - Miftakh Damar Faizin 
-22091397033 - Aryangga Putra Satrya 
+22091397078 – Muhammmad Zacky Zamzamy
+22091397088 - Maulana Arridho 
+22091397103 - Nur Puspita Amalia
  
  
  
  
-11 September 2023
+08 September 2023
 1 
  
 Daftar Isi 
@@ -191,4 +191,3 @@ kerja website
 5. Kebutuhan Non Fungsional 
  
  
-

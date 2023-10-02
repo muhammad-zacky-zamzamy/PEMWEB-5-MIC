@@ -17,10 +17,9 @@ Prepared by
  
  
  
-08 September 2023
-1 
+08 September 2023 
  
-Daftar Isi	1
+Daftar Isi	
 1. 	Pendahuluan	2
 1.1 	Tujuan Penulisan Dokumen	2
 1.2 	Audien yang Dituju dan Pembaca yang Disarankan	2

@@ -14,7 +14,27 @@ Prepared by
 22091397088 - Maulana Arridho 
 22091397103 - Nur Puspita Amalia
  
- 
+ 1.	Pendahuluan
+1.1	Tujuan Penulisan Dokumen
+Dokumen ini bertujuan untuk mendefinisikan kebutuhan dan spesifikasi sistem untuk pengembangan website "Crafted Merch Customized". Website ini akan digunakan untuk memungkinkan pengguna untuk merancang dan memesan produk merchandise yang dapat disesuaikan sesuai dengan preferensi mereka. Dokumen ini akan menjadi panduan bagi tim pengembangan dalam merancang dan mengimplementasikan situs web.
+
+
+1.2	Audien yang Dituju dan Pembaca yang Disarankan
+Dokumen ditujukan untuk berbagai jenis pembaca dan pihak terkait yang terlibat dalam pengembangan, pengelolaan, dan penggunaan website ini. Dokumen ini dirancang untuk memberikan panduan yang komprehensif kepada semua pihak yang terlibat dalam proyek "Crafted Merch Customized" untuk mencapai kesuksesan pengembangan dan penggunaan website ini.
+1.3	Batasan Produk
+
+
+1.4	Definisi dan Istilah
+<tulis istilah dan definisikan jika ada>
+
+o	SRS	:	Software Requirements Specification, atau 
+	   Spesifikasi Kebutuhan Perangkat Lunak (SKPL)
+
+o	IEEE	:	Institute of Electrical and Electronics Engineering
+		Standar internasional untuk pengembangan dan perancangan produk.
+
+1.5	Refrensi
+
  
  
 08 September 2023 

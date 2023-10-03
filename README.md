@@ -112,6 +112,8 @@ Dokumen ditujukan untuk berbagai jenis pembaca dan pihak terkait yang terlibat d
 
 1.3. Batasan Produk
 
+Produk ini hanya mencakup pembuatan dan pembelian produk merchandise seperti kaos, hoodie, topi, lanyard, totebag, dan produk merchandise lainnya. Produk ini tidak mencakup pembuatan atau pembelian produk non-merchandise seperti makanan, minuman, atau barang-barang non-merchandise lainnya. Produk ini tidak mencakup pengembangan atau pemeliharaan fitur-fitur analitik atau pelaporan yang kompleks.
+
 1.4. Definisi dan Istilah
 
 o SRS : Software Requirements Specification atau Spesifikasi Kebutuhan Perangkat Lunak (SKPL)

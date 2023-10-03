@@ -190,6 +190,8 @@ Halangan atau tantangan dari website ini adalah perlu menggunakan jaringan inter
 
 2.6. Dokumentasi Pengguna
 
+Website "Crafted Merch Customized" ini akan tersedia halaman utama yang berisi tentang bagian-bagian yang terdapat dalam website, yaitu tentang saya yang berisi tentang home, product, contact, dan about us. 
+
 3. Kebutuhan Antarmuka Eksternal
 
 3.1. User Interfaces

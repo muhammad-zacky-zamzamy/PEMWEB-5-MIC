@@ -266,6 +266,16 @@ Berfungsi untuk pengelolaan dan penyimpanan database
 
 Lampiran A : Glosarium
 
+Berikut ini daftar istilah dan akronim yang dipakai pada dokumen SRS ini.
+
+•	Software: Perangkat lunak atau software adalah program komputer yang menjadi jembatan antara pengguna dengan perangkat keras (hardware). Software terdiri dari beberapa perintah yang dieksekusi oleh mesin komputer dalam menjalankan pekerjaannya. Dalam pembuatannya, software adalah perangkat yang dikembangkan oleh pengembang (developer) atau pemrogram (programmer) menggunakan bahasa pemrograman tertentu dan dapat dikombinasikan dengan kode yang dapat dikenali perangkat keras, di mana dalam hal ini ialah PC atau komputer. 
+
+•	Website: merupakan fasilitas internet yang menghubungkan dokumen dalam lingkup lokal maupun jarak jauh. Dokumen pada website disebut dengan web page dan link dalam website memungkinkan pengguna bisa berpindah dari satu page ke page lain (hypertext), baik antara page yang disimpan dalam server yang sama maupun server di seluruh dunia. Halaman dapat diakses dan dibaca melalui browser seperti Google Chrome, Mozilla Firefox, dan lainnya (Hakim Lukmanul, 2004).
+
+•	Flowchart:  Diagram yang menampilkan langkah-langkah dan keputusan untuk melakukan sebuah proses dari suatu program. Setiap langkah digambarkan dalam bentuk diagram dan dihubungkan dengan garis atau arah panah.
+
+•	Use Case Diagram: Use case diagram adalah teknik yang biasa digunakan dalam mengembangkan perangkat lunak atau software dengan tujuan untuk mengetahui kebutuhan fungsional dari suatu sistem. Definisi dari use case diagram sendiri adalah proses penggambaran untuk menunjukkan hubungan antara pengguna dengan sistem yang telah dirancang.
+
 Lampiran B : Analisa Model
 
 Sistem input product

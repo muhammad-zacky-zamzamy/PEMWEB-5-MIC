@@ -54,11 +54,49 @@ Daftar Isi:
 
 3.1. User Interfaces
 
+Ruang lingkup Website "Crafted Merch Customized"  meliputi bagian-bagian yang terdapat dalam Website "Crafted Merch Customized" yang telah dibuat. Berikut deskripsi singkat mengenai ruang lingkup Website Pribadi ini:
+
+1.	Home
+Pada halaman home akan menampilkan “Crafted Merch Customized”, “Our Categories Product”, dan “We Print Your Idea.”
+
+2.	Product 
+Pada halaman Product kami akan menampilkan halaman shop.
+
+3.	Contact
+Pada halaman Contact kami akan menampilkan halaman untuk login dan registrasi, “how did you find us”, phone, dan email untuk menghubungi kami.
+
+4.	About 
+Pada halaman About akan menceritakan tentang diri kami, yaitu “Crafted Merch Customized” adalah brand yang bisa memadukan kualitas tinggi dengan kreativitas tak terbatas. Menawarkan berbagai macam merchandise, mulai dari baju kaos, hoodie, topi, lanyard, hingga totebag, yang dapat disesuaikan sepenuhnya dengan desain pilihan pelanggan.
+
 3.2. Hardware Interfaces
+
+Website Pribadi ini membutuhkan perangkat seluler yang mendukung, seperti Android atau IOS, dan PC.
 
 3.3. Software Interfaces
 
+1.	Visual Studio Code Editor 
+Aplikasi untuk membuat coding, sumber ringan, kuat, dan dapat dikustomisasi.
+
+2.	HTML (HyperText Markup Language) 
+Bahasa markup untuk membuat struktur dan konten website.
+
+3.	CSS (Cascading Style Sheets) 
+Bahasa yang digunakan untuk mengatur tampilan dan desain website.
+
+4.	Web Hosting 
+Berfungsi untuk pengelolaan dan penyimpanan database
+
 3.4. comunication Interfaces
+
+1.	Halaman Contact
+-	Pengguna dapat menanyakan informasi yang ingin diketahui dengan menghubungi kami melalui nomor telepon dan email kami yang tertera pada halaman Contact.
+  
+2.	Halaman Home
+-	Pengguna dapat memesan produk merchandise pada halaman Home dengan mengklik “We Print Your Ideas” yaitu tombol untuk pesan merchandise custom dengan desain pelanggan sendiri di Crafted Merch Customized.
+  
+3.	Notifikasi Transaksi
+-	Pengguna akan menerima notifikasi langsung tentang status transaksi mereka, seperti konfirmasi pesanan, pembaruan pengiriman, atau penawaran khusus. 
+-	Notifikasi akan dikirim melalui pesan teks, notifikasi push, atau email. 
 
 4. Functional Requirements
 

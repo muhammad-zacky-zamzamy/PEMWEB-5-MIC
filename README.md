@@ -462,3 +462,41 @@ d. HTML Halaman Product:
    - `<br />`: Ini adalah elemen baris kosong (line break) untuk memberikan jarak di antara daftar dan elemen berikutnya.
 
    - `<h2 style="margin-left: 60px">Halaman Shop</h2>`: Ini adalah judul level 2 (h2) yang menampilkan teks "Halaman Shop" dengan margin kiri sejauh 60 piksel.
+
+e. CSS
+
+1. **Pengaturan Global**:
+   - Bagian pertama dari kode CSS dimulai dengan pengaturan global. Ini mencakup pengaturan margin dan padding menjadi 0 untuk semua elemen di halaman web, termasuk elemen-elemen seperti `div`, `p`, `h1`, `ul`, `li`, dan lainnya.
+
+2. **Pengaturan Latar Belakang Halaman**:
+   - Setelah pengaturan global, Anda mendefinisikan pengaturan latar belakang untuk elemen `body` dan `html`. Latar belakangnya akan memiliki warna berdasarkan nilai RGBA (Merah-Hijau-Biru-Alpha) dan tinggi minimum halaman.
+
+3. **Gaya untuk Kelas-Kelas Umum**:
+   - Anda mendefinisikan beberapa kelas umum yang akan digunakan dalam elemen-elemen HTML, seperti `d-flex` (untuk display: flex), `align-i-center` (untuk mengatur perataan elemen sejajar tengah), dan sebagainya.
+
+4. **Gaya untuk Link**:
+   - Selanjutnya, Anda mendefinisikan tiga gaya yang berkaitan dengan tautan (link). `link-1`, `link-2`, dan `link-3` digunakan untuk mengatur tampilan tautan dengan variasi gaya. `link-2` memiliki efek hover yang mengubah warna latar belakang dan teks saat dihover.
+
+5. **Gaya untuk Ikon Sosial Media**:
+   - Anda mendefinisikan gaya untuk kontainer ikon sosial media (`.container-icon-link`) dan ikon-ikon itu sendiri (`.icon-link`). Pengaturan ini termasuk pengaturan ukuran, margin, border, dan efek hover yang mengubah latar belakang.
+
+6. **Gaya untuk Tata Letak**:
+   - Bagian berikutnya dari kode mengatur tata letak dan sistem grid untuk halaman web. Anda menggunakan variabel seperti `--bs-gutter-x` dan `--bs-gutter-y` serta kelas-kelas seperti `.container-fluid`, `.row`, `.col-6`, dan lain-lain untuk mengatur tata letak dan ruang antar elemen.
+
+7. **Gaya untuk Teks**:
+   - Anda mendefinisikan berbagai gaya teks untuk judul, paragraf, dan elemen-elemen teks lainnya. Ini termasuk jenis font, ukuran, dan gaya huruf yang berbeda.
+
+8. **Gaya Navbar**:
+   - Anda mendefinisikan gaya untuk elemen-elemen dalam navbar. Ini mencakup pengaturan latar belakang navbar, elemen-elemen dalam daftar (list), dan efek hover yang mengubah bentuk elemen saat dihover.
+
+9. **Gaya untuk Halaman Beranda**:
+   - Anda mendefinisikan gaya untuk elemen-elemen pada halaman beranda. Ini mencakup pengaturan posisi dan tampilan elemen-elemen seperti elips (ellipse) dan gambar-gambar.
+
+10. **Gaya untuk Halaman "About" dan "Contact Us"**:
+    - Anda menentukan latar belakang gambar untuk halaman "About" dan "Contact Us" dengan `.container-about` dan `.container-contact`.
+
+11. **Gaya untuk Formulir Kontak (Contact Us)**:
+    - Anda mendefinisikan gaya untuk elemen-elemen dalam formulir kontak (`.kolom-input`, `.input-contact`, `.input-contact-select`, dan tombol). Ini mencakup pengaturan margin, padding, dan latar belakang tombol saat dihover.
+
+12. **Gaya untuk Footer**:
+    - Terakhir, Anda mendefinisikan gaya untuk elemen-elemen dalam footer halaman web, termasuk latar belakang dan pengaturan padding.

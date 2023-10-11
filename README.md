@@ -1,13 +1,13 @@
 # PemwebFinalProject
 # 2022C-Kelompok5
 
-Software Requirements Specification
+**Software Requirements Specification**
 
-for
+**for**
 
-Perancangan Website Crafted Merch Customized
+**Perancangan Website Crafted Merch Customized**
 
-Version 1.0 approved
+**Version 1.0 approved**
 
 Prepared by:
 
@@ -24,21 +24,21 @@ Fakultas Vokasi Universitas Negeri Surabaya
 2022
 
 
-1. Pendahuluan
+**1. Pendahuluan**
 
-1.1.Tujuan
+**1.1.Tujuan**
 
 Dokumen ini bertujuan untuk mendefinisikan kebutuhan dan spesifikasi sistem untuk pengembangan website "Crafted Merch Customized". Website ini akan digunakan untuk memungkinkan pengguna untuk merancang dan memesan produk merchandise yang dapat disesuaikan sesuai dengan preferensi mereka. Dokumen ini akan menjadi panduan bagi tim pengembangan dalam merancang dan mengimplementasikan situs web.
 
-1.2. Audiens Yang Dituju
+**1.2. Audiens Yang Dituju**
 
 Dokumen ditujukan untuk berbagai jenis pembaca dan pihak terkait yang terlibat dalam pengembangan, pengelolaan, dan penggunaan website ini. Dokumen ini dirancang untuk memberikan panduan yang komprehensif kepada semua pihak yang terlibat dalam proyek "Crafted Merch Customized" untuk mencapai kesuksesan pengembangan dan penggunaan website ini.
 
-1.3. Batasan Produk
+**1.3. Batasan Produk**
 
 Produk ini hanya mencakup pembuatan dan pembelian produk merchandise seperti kaos, hoodie, topi, lanyard, totebag, dan produk merchandise lainnya. Produk ini tidak mencakup pembuatan atau pembelian produk non-merchandise seperti makanan, minuman, atau barang-barang non-merchandise lainnya. Produk ini juga tidak mencakup pengembangan atau pemeliharaan fitur-fitur analitik atau pelaporan yang kompleks.
 
-1.4. Definisi dan Istilah
+**1.4. Definisi dan Istilah**
 
 Berikut adalah definisi dan penjelasan singkat untuk istilah-istilah yang mungkin memerlukan klarifikasi:
 
@@ -46,7 +46,7 @@ Berikut adalah definisi dan penjelasan singkat untuk istilah-istilah yang mungki
   
 - IEEE (Institute of Electrical and Electronics Engineering): Sebuah organisasi internasional yang mengembangkan standar untuk berbagai bidang teknik, termasuk standar terkait pengembangan perangkat lunak. IEEE sering kali diacu dalam konteks standar industri dan praktik terbaik.
 
-1.5. Referensi
+**1.5. Referensi**
 
 Referensi-Referensi berikut ini adalah sumber-sumber yang relevan dan dapat memberikan wawasan yang diperlukan untuk proyek "Crafted Merch Customized." Mereka dapat digunakan sebagai bahan referensi tambahan untuk lebih memahami konteks dan kebutuhan proyek ini:
 
@@ -56,9 +56,9 @@ Situs web Merchie menyediakan layanan konveksi profesional yang dapat memberikan
 - [Referensi 2]: DYOTees Sablon, Sublim & Konveksi Terbaik Jakarta
 Referensi ini mengarahkan pembaca ke penyedia layanan sablon dan konveksi di Jakarta. Ini bisa menjadi referensi
 
-2. Deskripsi Keseluruhan
+**2. Deskripsi Keseluruhan**
 
-2.1. Deskripsi Produk
+**2.1. Deskripsi Produk**
 
 Website Crafted Merch Customized adalah sebuah platform e-commerce yang dirancang khusus untuk memfasilitasi pembuatan dan pembelian produk merchandise yang dapat disesuaikan sepenuhnya oleh pengguna. Platform ini memiliki tujuan utama untuk menggabungkan kualitas tinggi dengan kreativitas tak terbatas, memberikan pengguna kemampuan untuk merancang produk merchandise yang unik sesuai dengan preferensi dan gaya mereka sendiri.
 
@@ -77,7 +77,7 @@ Platform ini juga menyediakan fitur-fitur berikut:
 - Kontrol Kualitas: Seluruh produk melewati kontrol kualitas ketat untuk memastikan kualitas tinggi.
 - Berbagi di Media Sosial: Pengguna diundang untuk berbagi desain dan pembelian mereka di media sosial, meningkatkan visibilitas platform.
 
-2.2. Penggolongan Karakteristik Pengguna
+**2.2. Penggolongan Karakteristik Pengguna**
 
 Dalam pengembangan platform "Crafted Merch Customized," berbagai kategori pengguna telah diidentifikasi, masing-masing dengan tugas, hak akses ke Web Site, dan kemampuan yang harus dimiliki. Berikut adalah penjelasan lebih rinci tentang karakteristik pengguna:
 
@@ -86,12 +86,12 @@ Tabel 1 Karakteristik Pengguna
 ![tabel 1 karakteristik pengguna](https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/13745bfe-a824-4069-8821-fd1bc0205048)
 
 
-2.3. Lingkungan Operasi
+**2.3. Lingkungan Operasi**
 
 ![tabel lingkungan operasi](https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/c54bb06a-eb3a-4daf-bab2-b51e7bce4587)
 
 
-2.4. Batasan Desain dan Implementasi
+**2.4. Batasan Desain dan Implementasi**
 
 Batasan desain dan implementasi adalah elemen-elemen yang akan membatasi pilihan yang tersedia untuk para pengembang dalam merancang dan mengimplementasikan platform "Crafted Merch Customized." Berikut adalah penjelasan lebih rinci tentang batasan-batasan tersebut:
 
@@ -103,18 +103,18 @@ Batasan desain dan implementasi adalah elemen-elemen yang akan membatasi pilihan
    
 Dengan penjelasan ini, batasan-batasan desain dan implementasi menjadi lebih jelas, memungkinkan tim pengembangan untuk memahami kendala-kendala yang akan mereka hadapi selama proses pengembangan platform "Crafted Merch Customized." Pastikan untuk memantau dan mematuhi batasan-batasan ini selama seluruh siklus pengembangan.
 
-3. Kebutuhan Antarmuka Eksternal
+**3. Kebutuhan Antarmuka Eksternal**
 
-3.1. User Interfaces
+**3.1. User Interfaces**
 
 Ruang lingkup Website "Crafted Merch Customized"  meliputi bagian-bagian yang terdapat dalam Website "Crafted Merch Customized" yang telah dibuat. Berikut deskripsi singkat mengenai ruang lingkup Website Pribadi ini:
 
-1.	Home
+**1.	Home**
 Pada halaman home akan menampilkan “Crafted Merch Customized”, “Our Categories Product”, dan “We Print Your Idea.”
 
 ![HOME](https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/cfe2faf8-3a07-4d8a-9441-514fe68979b5)
 
-2.	Product 
+**2.	Product**
 Pada halaman Product kami akan menampilkan halaman shop.
 
 ![PRODUCT1](https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/a1b826bc-2ad8-4b7d-8fa5-1eb96c14c2e0)
@@ -127,17 +127,17 @@ Pada halaman Product kami akan menampilkan halaman shop.
 
 ![PRODUCT5](https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/0a46fcd0-ffa9-4a66-86f9-a20cd92278ef)
 
-3.	Contact Us
+**3.	Contact Us**
 Pada halaman Contact kami akan menampilkan halaman untuk login dan registrasi, “how did you find us”, phone, dan email untuk menghubungi kami.
 
 ![CONTACT US](https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/c7c23218-91aa-4b9a-91d8-5e08e83f96d8)
 
-4.	About 
+**4.	About**
 Pada halaman About akan menceritakan tentang diri kami, yaitu “Crafted Merch Customized” adalah brand yang bisa memadukan kualitas tinggi dengan kreativitas tak terbatas. Menawarkan berbagai macam merchandise, mulai dari baju kaos, hoodie, topi, lanyard, hingga totebag, yang dapat disesuaikan sepenuhnya dengan desain pilihan pelanggan.
 
 ![ABOUT](https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/74bb77ac-5055-4922-b158-fcd11b4b6264)
 
-3.2. Hardware Interface
+**3.2. Hardware Interface**
 
 platform "Crafted Merch Customized" agar dapat diakses dengan optimal. Berikut penjelasan yang lebih terperinci:
 
@@ -146,7 +146,7 @@ platform "Crafted Merch Customized" agar dapat diakses dengan optimal. Berikut p
 10
 3. Spesifikasi Minimal Perangkat: Meskipun platform ini dapat diakses melalui berbagai perangkat seluler dan komputer, kinerja platform dapat bervariasi tergantung pada spesifikasi perangkat. Rekomendasi adalah menggunakan perangkat dengan spesifikasi yang memadai, seperti koneksi internet yang stabil dan tampilan layar yang memadai, untuk pengalaman pengguna yang optimal.
 
-3.3. Software Interfaces
+**3.3. Software Interfaces**
 
 Bagian "Software Interface" menjelaskan perangkat lunak dan teknologi yang akan digunakan dalam pengembangan dan operasi platform "Crafted Merch Customized." Berikut penjelasan yang lebih terperinci:
 
@@ -155,7 +155,7 @@ Bagian "Software Interface" menjelaskan perangkat lunak dan teknologi yang akan 
 3. CSS (Cascading Style Sheets): CSS adalah bahasa yang digunakan untuk mengatur tampilan dan desain website. Dengan CSS, para pengembang dapat mengontrol warna, tata letak, font, dan estetika keseluruhan platform. Ini akan memastikan tampilan yang konsisten dan menarik bagi pengguna.
 4. Web Hosting: Web hosting akan digunakan untuk menyimpan dan mengelola database serta konten platform. Ini mencakup penyimpanan data produk, desain pengguna, dan informasi lainnya yang diperlukan untuk operasi platform.
    
-3.4. comunication Interfaces
+**3.4. comunication Interfaces**
 
 Bagian "Communication Interface" menjelaskan bagaimana platform "Crafted Merch Customized" berinteraksi dengan pengguna dan bagaimana komunikasi antara pengguna dan platform tersebut terjadi. Berikut penjelasan yang lebih terperinci:
 
@@ -169,22 +169,22 @@ Pengguna akan menerima notifikasi langsung tentang status transaksi mereka. Noti
   - Notifikasi Push: Web Site dapat mengirimkan notifikasi push langsung ke perangkat pengguna.
   - Email: Pengguna juga akan menerima notifikasi melalui email ke alamat yang mereka daftarkan.
   
-4. Functional Requirements
+**4. Functional Requirements**
 
 Bagian ini akan menggambarkan kebutuhan fungsional untuk produk "Crafted Merch Customized" yang mencakup fitur-fitur sistem dan layanan utama yang akan disediakan oleh produk ini. Kebutuhan ini akan diorganisir dalam bentuk tabel dengan ID dan penjelasan yang diperlukan.
 
 ![Functional Requirement](https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/7df5e136-4882-4eb9-9db5-c952058d06d6)
 
 
-4.1. Use Case Diagram
+**4.1. Use Case Diagram**
 
 Gambaran use case diagramnya dari functional requirement yang didapatkan.
 
 ![USE CASE DIAGRAM](https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/90e9628c-7b9b-45ea-b342-0f2628f384e9)
 
-4.2. Penjelasan Use Case
+**4.2. Penjelasan Use Case**
 
-  4.2.1. Deskripsi Use Case
+  **4.2.1. Deskripsi Use Case**
 
 Use case ini mencakup pengalaman pengguna dari pelanggan yang memilih, menyesuaikan, dan memesan produk, hingga admin dan pengrajin yang mengelola produksi dan operasi situs web. Ini adalah platform yang memungkinkan pelanggan untuk mendapatkan produk yang disesuaikan dengan desain mereka sendiri, sementara memberikan pengelolaan yang efisien untuk admin dan pengrajin.
 
@@ -207,13 +207,13 @@ Use case ini mencakup pengalaman pengguna dari pelanggan yang memilih, menyesuai
 - Mengelola Data: Costurer dapat mengelola data yang berhubungan dengan produksi, termasuk inventaris bahan dan status pesanan.
 - Laporan: Costurer dapat menghasilkan laporan terkait dengan produksi dan pesanan yang telah selesai.
 
-  4.2.2. Stimulus and Respon
+  **4.2.2. Stimulus and Respon**
 Menyediakan daftar aksi yang dilakukan oleh user dan respon dari sistem.
 
 ![action respon](https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/1710b654-f393-4d03-a3ea-9c8700652732)
 
 
-5. Persyaratan Nonfungsional Lainnya
+**5. Persyaratan Nonfungsional Lainnya**
 
 Kebutuhan non-fungsional untuk platform "Crafted Merch Customized" akan diuraikan dalam tabel berikut:
 
@@ -222,9 +222,9 @@ Kebutuhan non-fungsional untuk platform "Crafted Merch Customized" akan diuraika
 
 Kebutuhan non-fungsional platform "Crafted Merch Customized" menjadi lebih terperinci dan mencakup parameter, kebutuhan, dan catatan yang relevan untuk memastikan kualitas, keamanan, dan kenyamanan dalam penggunaan Web Site.
 
-6. Persyaratan Lainnya
+**6. Persyaratan Lainnya**
 
-Lampiran A : Glosarium
+**Lampiran A : Glosarium**
 
 Berikut ini daftar istilah dan akronim yang dipakai pada dokumen SRS ini.
 
@@ -236,24 +236,19 @@ Berikut ini daftar istilah dan akronim yang dipakai pada dokumen SRS ini.
 
 •	Use Case Diagram: Use case diagram adalah teknik yang biasa digunakan dalam mengembangkan perangkat lunak atau software dengan tujuan untuk mengetahui kebutuhan fungsional dari suatu sistem. Definisi dari use case diagram sendiri adalah proses penggambaran untuk menunjukkan hubungan antara pengguna dengan sistem yang telah dirancang.
 
-Lampiran B : Analisa Model
+**Lampiran B : Analisa Model**
 
-Flowchart Sistem input product
+**Flowchart Sistem input product**
 
 <img width="303" alt="Flowchart Sistem Input Produk" src="https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/c371afb7-55db-4efc-baf8-cd7ca30057b3">
 
-Flowchart sistem pemesanan
+**Flowchart sistem pemesanan**
 
 <img width="295" alt="Flowchart Sistem Pemesanan" src="https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/8fbb7e72-8963-45b1-9268-e80b5123ea28">
 
-Use Case Diagram
+**Lampiran C : Penjelasan HTML**
 
-![USE CASE DIAGRAM](https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/efbfe125-cf55-443b-9aef-4d2015752212)
-
-
-Lampiran C : Penjelasan HTML
-
-a. HTML Halaman Home:
+**a. HTML Halaman Home:**
 
 1. `<!DOCTYPE html>`: Ini adalah deklarasi tipe dokumen (Document Type Declaration) yang mengindikasikan bahwa halaman ini adalah dokumen HTML5.
 
@@ -313,7 +308,7 @@ a. HTML Halaman Home:
 
        - Beberapa elemen gambar (img) yang menampilkan berbagai gambar dengan atribut-atribut yang mengatur tampilan.
 
-b. HTML Halaman About:
+**b. HTML Halaman About:**
 
 1. `<!DOCTYPE html>`: Ini adalah deklarasi tipe dokumen (Document Type Declaration) yang mendefinisikan bahwa halaman ini adalah dokumen HTML5.
 
@@ -358,7 +353,7 @@ b. HTML Halaman About:
      - `<div>`: Ini adalah elemen div kedua yang berisi empat gambar (img) yang mengacu pada berkas gambar dengan atribut alt (deskripsi alternatif) kosong.
 
 
-c. HTML Halaman Contact Us:
+**c. HTML Halaman Contact Us:**
 
 1. `<!DOCTYPE html>`: Ini adalah deklarasi tipe dokumen (Document Type Declaration) yang mengindikasikan bahwa halaman ini adalah dokumen HTML5.
 
@@ -429,7 +424,7 @@ c. HTML Halaman Contact Us:
        - `<p>info@marcc.com.au</p>`: Ini adalah elemen paragraf (p) yang berisi alamat email.
 
 
-d. HTML Halaman Product: 
+**d. HTML Halaman Product:** 
 
 1. `<!DOCTYPE html>`: Ini adalah deklarasi tipe dokumen (Document Type Declaration) yang menunjukkan bahwa halaman ini adalah dokumen HTML5.
 
@@ -463,7 +458,7 @@ d. HTML Halaman Product:
 
    - `<h2 style="margin-left: 60px">Halaman Shop</h2>`: Ini adalah judul level 2 (h2) yang menampilkan teks "Halaman Shop" dengan margin kiri sejauh 60 piksel.
 
-e. CSS
+**e. CSS**
 
 1. **Pengaturan Global**:
    - Bagian pertama dari kode CSS dimulai dengan pengaturan global. Ini mencakup pengaturan margin dan padding menjadi 0 untuk semua elemen di halaman web, termasuk elemen-elemen seperti `div`, `p`, `h1`, `ul`, `li`, dan lainnya.

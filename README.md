@@ -1,3 +1,4 @@
+# PemwebFinalProject
 # 2022C-Kelompok5
 
 Software Requirements Specification
@@ -85,11 +86,13 @@ Dalam pengembangan platform "Crafted Merch Customized," berbagai kategori penggu
 
 Tabel 1 Karakteristik Pengguna
 
-IMG
+![tabel 1 karakteristik pengguna](https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/13745bfe-a824-4069-8821-fd1bc0205048)
+
 
 2.3. Lingkungan Operasi
 
-IMG
+![tabel lingkungan operasi](https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/c54bb06a-eb3a-4daf-bab2-b51e7bce4587)
+
 
 2.4. Batasan Desain dan Implementasi
 
@@ -112,22 +115,30 @@ Ruang lingkup Website "Crafted Merch Customized"  meliputi bagian-bagian yang te
 1.	Home
 Pada halaman home akan menampilkan “Crafted Merch Customized”, “Our Categories Product”, dan “We Print Your Idea.”
 
-IMG
+![HOME](https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/cfe2faf8-3a07-4d8a-9441-514fe68979b5)
 
 2.	Product 
 Pada halaman Product kami akan menampilkan halaman shop.
 
-IMG
+![PRODUCT1](https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/a1b826bc-2ad8-4b7d-8fa5-1eb96c14c2e0)
+
+![PRODUCT2](https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/474e47c0-f68c-4fcb-8410-48dfa9ca3f9e)
+
+![PRODUCT3](https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/571c0b14-dc6e-465e-9f2b-3790a3f4b776)
+
+![PRODUCT4](https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/9aaeb7b3-3ee2-4a7c-901e-d70bb2bf7faa)
+
+![PRODUCT5](https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/0a46fcd0-ffa9-4a66-86f9-a20cd92278ef)
 
 3.	Contact Us
 Pada halaman Contact kami akan menampilkan halaman untuk login dan registrasi, “how did you find us”, phone, dan email untuk menghubungi kami.
 
-IMG
+![CONTACT US](https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/c7c23218-91aa-4b9a-91d8-5e08e83f96d8)
 
 4.	About 
 Pada halaman About akan menceritakan tentang diri kami, yaitu “Crafted Merch Customized” adalah brand yang bisa memadukan kualitas tinggi dengan kreativitas tak terbatas. Menawarkan berbagai macam merchandise, mulai dari baju kaos, hoodie, topi, lanyard, hingga totebag, yang dapat disesuaikan sepenuhnya dengan desain pilihan pelanggan.
 
-IMG
+![ABOUT](https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/74bb77ac-5055-4922-b158-fcd11b4b6264)
 
 3.2. Hardware Interface
 
@@ -165,13 +176,14 @@ Pengguna akan menerima notifikasi langsung tentang status transaksi mereka. Noti
 
 Bagian ini akan menggambarkan kebutuhan fungsional untuk produk "Crafted Merch Customized" yang mencakup fitur-fitur sistem dan layanan utama yang akan disediakan oleh produk ini. Kebutuhan ini akan diorganisir dalam bentuk tabel dengan ID dan penjelasan yang diperlukan.
 
-IMG
+![Functional Requirement](https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/7df5e136-4882-4eb9-9db5-c952058d06d6)
+
 
 4.1. Use Case Diagram
 
 Gambaran use case diagramnya dari functional requirement yang didapatkan.
 
-IMG
+![USE CASE DIAGRAM](https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/90e9628c-7b9b-45ea-b342-0f2628f384e9)
 
 4.2. Penjelasan Use Case
 
@@ -201,13 +213,15 @@ Use case ini mencakup pengalaman pengguna dari pelanggan yang memilih, menyesuai
   4.2.2. Stimulus and Respon
 Menyediakan daftar aksi yang dilakukan oleh user dan respon dari sistem.
 
-IMG
+![action respon](https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/1710b654-f393-4d03-a3ea-9c8700652732)
+
 
 5. Persyaratan Nonfungsional Lainnya
 
 Kebutuhan non-fungsional untuk platform "Crafted Merch Customized" akan diuraikan dalam tabel berikut:
 
-IMG
+![Non Functional Requirement](https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/718b186c-e814-4928-9794-b532adb291e3)
+
 
 Kebutuhan non-fungsional platform "Crafted Merch Customized" menjadi lebih terperinci dan mencakup parameter, kebutuhan, dan catatan yang relevan untuk memastikan kualitas, keamanan, dan kenyamanan dalam penggunaan Web Site.
 
@@ -229,15 +243,16 @@ Lampiran B : Analisa Model
 
 Flowchart Sistem input product
 
-IMG
+<img width="303" alt="Flowchart Sistem Input Produk" src="https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/c371afb7-55db-4efc-baf8-cd7ca30057b3">
 
 Flowchart sistem pemesanan
 
-IMG
+<img width="295" alt="Flowchart Sistem Pemesanan" src="https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/8fbb7e72-8963-45b1-9268-e80b5123ea28">
 
 Use Case Diagram
 
-IMG
+![USE CASE DIAGRAM](https://github.com/D4ManajemenInformatika/final-project-website-pempro-web-5-mic/assets/120569369/efbfe125-cf55-443b-9aef-4d2015752212)
+
 
 Lampiran C : Penjelasan HTML
 

@@ -53,10 +53,7 @@ Referensi-Referensi berikut ini adalah sumber-sumber yang relevan dan dapat memb
 - [Referensi 1]: Merchie - Jasa Konveksi Profesional
 Situs web Merchie menyediakan layanan konveksi profesional yang dapat memberikan wawasan tentang proses pembuatan produk merchandise. Ini adalah referensi yang relevan untuk memahami tahapan produksi.
 
-- [Referensi 2]: Cititex | Jual Kaos Polos dan Sablon Murah BerKualitas
-Referensi ini mengarahkan pembaca ke situs web yang menjual kaos polos dan layanan sablon. Hal ini dapat memberikan pemahaman tentang jenis produk merchandise yang mungkin dijual melalui "Crafted Merch Customized."
-
-- [Referensi 3]: DYOTees Sablon, Sublim & Konveksi Terbaik Jakarta
+- [Referensi 2]: DYOTees Sablon, Sublim & Konveksi Terbaik Jakarta
 Referensi ini mengarahkan pembaca ke penyedia layanan sablon dan konveksi di Jakarta. Ini bisa menjadi referensi
 
 2. Deskripsi Keseluruhan
